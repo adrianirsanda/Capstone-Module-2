@@ -53,7 +53,7 @@ Transjakarta merupakan sistem transportasi Bus Rapid Transit (BRT) pertama di As
 - Penambahan armada dan peningkatan fasilitas bagi koridor Cibubur-Balai Kota baik di pagi dan sore hari.
 - Melakukan optimalisasi untuk perjalanan non rush hour seperti penyesuaian jumlah armada yang beroperasi
 
-[Tableau](https://public.tableau.com/app/profile/adrian.irsanda/viz/TableauCapstoneModule2AdrianIrsanda/MainDashboard?publish=yes)
+[Tableau](https://public.tableau.com/app/profile/adrian.irsanda/viz/AnalisisTransjakartaRushHour/MainDashboard?publish=yes)
 
 ---
 
